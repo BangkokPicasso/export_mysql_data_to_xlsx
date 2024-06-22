@@ -24,6 +24,10 @@ This project provides a simple Python script to connect to a MySQL database, exe
 ## Example
 This script connects to a local MySQL database, fetches data from SchemeName.TableName, and exports it to output.xlsx.
 
+## Related Repositories
+* [Excel_to_MySQL_Importer](https://github.com/BangkokPicasso/Excel_to_MySQL_Importer): a Python script to import data from an Excel file into a MySQL database
+* [df_to_mysql_table_statement_generator](https://github.com/BangkokPicasso/df_to_mysql_table_statement_generator): Converting a Pandas DataFrame into a MySQL CREATE TABLE statement
+  
 ## Prerequisites
 * Python 3.x
 * MySQL server
